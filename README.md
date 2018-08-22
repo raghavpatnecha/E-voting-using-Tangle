@@ -1,6 +1,11 @@
 # Internet Voting using Tangle
 White paper on E-voting Using Tangle (DAG based Block chain)
 
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/whitepapers/links/7)
+
+## Introduction
+
 Proposals to conduct voting pilots using real elections continue to reappear both in the Indoa and elsewhere, seemingly independent of warnings from computer security experts. While the appeal of Internet voting is obvious, the risks, unfortunately, are not, at least to many decision makers. Yet voted ballots sent via Internet simply cannot be made secure and make easy and inviting targets for attackers ranging from lone hackers to foreign governments seeking to undermine US elections.
 
 ## Why Blockchain and Tangle 
